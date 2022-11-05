@@ -1,0 +1,1 @@
+This was a simple html project to complete. The most difficult part for me was to remind myself to 'git commit' the process. But overall, I didn't encounter any significant issue that affected my flow.
